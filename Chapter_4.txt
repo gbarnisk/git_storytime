@@ -1,0 +1,8 @@
+I'd like to 4Git Chapter 4.
+By Griffin Barniskis.
+
+As the four friends reconvened, the feeling of dread was palpable.
+They began to realize they had created a monster.
+They had edited the same files, and in the same places!
+There were only two options: Merge, or die.
+The funerals were quite sad.
